@@ -1,2 +1,2 @@
 # KusoKoudoKaigi5
-クソコード会議5に提出したコード
+[クソコード会議](https://kusokoudo.love/)5に提出したコード
